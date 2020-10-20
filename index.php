@@ -10,6 +10,8 @@
 </html>
 
 <?php
-	echo "Meu primeiro código php <strong> Olá </strong>";
-	?>
+echo "Meu primeiro código php <strong> Olá </strong>";
+
+echo "Olá Udemy"
+?>
 
