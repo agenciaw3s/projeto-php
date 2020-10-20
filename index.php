@@ -10,6 +10,6 @@
 </html>
 
 <?php
-	echo "Meu primeiro código php <strong> Olá </strong>";
-	?>
+echo "Modificação da mensagem";
+?>
 
